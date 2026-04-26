@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Eliane_Nirere_Resume PSE.pdf
       headings:
         about: ''
         education: ''
