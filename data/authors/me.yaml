@@ -123,6 +123,5 @@ awards:
     date: "2025"
     summary: Awarded to support outstanding graduate research advancing clean energy technologies and systems. The fellowship recognizes interdisciplinary work that integrates engineering, data science, and policy relevance to address challenges in sustainable energy, grid modernization, and equitable electrification.    
     icon: hero/trophy
-    links:
-      - label: Announcement
-        url: https://www.cei.washington.edu/people/eliane-nirere/
+    
+    url: https://www.cei.washington.edu/people/eliane-nirere/
