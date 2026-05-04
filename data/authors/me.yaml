@@ -105,18 +105,16 @@ awards:
     date: "2026"
     summary: A renewable‑energy–focused scholarship inspired by William Kamkwamba, the Malawian inventor made famous by The Boy Who Harnessed the Wind. Its purpose is to support students preparing for careers in clean and renewable energy systems, reflecting Kamkwamba’s emphasis on grassroots innovation, energy access, and practical problem‑solving.
     icon: hero/trophy
-    links:
-      - label: Announcement
-        url: https://www.resf-pnw.org/winners-collection/eliane-nirere?source=current&view=grid&focus=92b7d5b1-e7e9-4160-bd08-e587c9083cc7
+    
+    url: https://www.resf-pnw.org/winners-collection/eliane-nirere?source=current&view=grid&focus=92b7d5b1-e7e9-4160-bd08-e587c9083cc7
 
   - title: 2026 Vadari fellowship
     awarder: Sarala Vadari Endowed Fund
     date: "2026"
     summary: Awarded by the Sarala Vadari Endowed Fund in Electrical and Computer Engineering at the University of Washington to recognize outstanding academic achievement and impactful research in power and energy systems. The fellowship supports doctoral research advancing electricity access and renewable energy solutions for underserved communities in Sub‑Saharan Africa.
     icon: hero/trophy
-    links:
-      - label: Announcement
-        url: https://www.ece.uw.edu/spotlight/eliane-nirere-2026-vadari-fellowship/ 
+    
+    url: https://www.ece.uw.edu/spotlight/eliane-nirere-2026-vadari-fellowship/ 
 
   - title: Clean Energy Institute (CEI) Fellowship
     awarder: University of Washington Clean Energy Institute
