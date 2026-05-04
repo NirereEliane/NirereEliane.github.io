@@ -1,6 +1,6 @@
 ---
 title: Material-classification-for-Clean-energy
-date: 2023-09-01 - 2024-01-01
+date: 2024-01-01
 links:
   - type: site
     url: https://github.com/NirereEliane/Material-classification-for-Clean-energy

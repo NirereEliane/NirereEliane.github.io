@@ -1,6 +1,6 @@
 ---
 title: Measurements and LSTM‑Based Power Quality Analysis
-date: 2022-06-26 - 2023-06-01
+date: 2023-06-01
 # links:
 #   - type: site
 #     url: https://github.com/pandas-dev/pandas
