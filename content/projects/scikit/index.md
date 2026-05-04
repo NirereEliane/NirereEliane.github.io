@@ -1,5 +1,5 @@
 ---
-title: Toward AI-Ready Sub-Saharan African Power Systems: Empirical Assessment of Data Gaps and Utility Performance Patterns
+title: Toward AI-Ready Sub-Saharan African Power Systems
 date: 2023-10-26
 links:
   - type: site
