@@ -1,15 +1,18 @@
 ---
-title: Pandas
+title: Measurements and LSTM‑Based Power Quality Analysis
 date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
+# links:
+#   - type: site
+#     url: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - HugoBlox
+  # - Hugo
+  # - HugoBlox
+  - LSTM
+  - PMU
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Framework to assess the reliability of solar-powered mini-grids in Nigeria using high-frequency data from phasor measurement unit (PMU) sensors installed at the household level. 
+Understanding power quality as a proxy for system performance, voltage, and frequency variations. A  Long Short-Term Memory (LSTM) model was used to capture their temporal dynamics and relationship with outage events.
 
 <!--more-->
