@@ -1,6 +1,6 @@
 ---
 title: Toward AI-Ready Sub-Saharan African Power Systems
-date: 2023-10-26
+date: 2025-12-01 - Ongoing
 links:
   - type: site
     url: https://github.com/NirereEliane/Toward-AI-Ready-Sub-Saharan-African-Power-Systems/blob/main/Empirical_Assessment_of_Data_Gaps_and_Utility_Performance_Patterns.pdf

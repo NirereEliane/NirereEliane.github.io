@@ -95,10 +95,13 @@ languages:
   - name: Kinyarwanda
     level: 5
     label: Native
+  - name: Kiswahili
+    level: 5
+    label: Native
 
 awards:
   - title: William Kamkwamba Scholar
     awarder: Renewable Energy Scholarship Foundation
     date: "2026"
-    summary: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    summary: A renewable‑energy–focused scholarship inspired by William Kamkwamba, the Malawian inventor made famous by The Boy Who Harnessed the Wind. Its purpose is to support students preparing for careers in clean and renewable energy systems, reflecting Kamkwamba’s emphasis on grassroots innovation, energy access, and practical problem‑solving.
     icon: hero/trophy
